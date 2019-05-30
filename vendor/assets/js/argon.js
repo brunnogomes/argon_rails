@@ -1,4 +1,3 @@
-//= require jquery.min
 //= require argon.min
 
 //= require plugins/Chart.min
